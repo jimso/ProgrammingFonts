@@ -19,6 +19,7 @@ Source Code Pro/Extra Light/16:
 3.Andale Mono
 
 ![](https://raw.githubusercontent.com/ifeegoo/ifeegoo-programming-fonts-collections/master/Andale-Mono/font-andale-mono-sample.png "Font Andale Mono Sample")
+
 Andale Mono/Regular/16:
 ![](https://raw.githubusercontent.com/ifeegoo/ifeegoo-programming-fonts-collections/master/Andale-Mono/programming-font-andale-mono-display-result.png "Programming Font Andale Mono Display Result")
 
@@ -27,9 +28,11 @@ Andale Mono/Regular/16:
 Monaco/Regular/16:
 ![](https://raw.githubusercontent.com/ifeegoo/ifeegoo-programming-fonts-collections/master/Monaco/programming-font-monaco-display-result.png "Programming Font Monaco Display Result")
 
-5.Monofur(不等宽）
-6.Proggy (不等宽）
-7.Droid Sans Mono Apache License
+5.Monofur(deleted）
+
+6.Proggy （deleted)
+
+7.Droid Sans Mono 
 ![](https://raw.githubusercontent.com/ifeegoo/ifeegoo-programming-fonts-collections/master/Droid-Sans-Mono/font-droid-sans-mono-sample.png "Font Droid Sans Mono Sample")
 Droid Sans Mono/Regular/14:
 ![](https://raw.githubusercontent.com/ifeegoo/ifeegoo-programming-fonts-collections/master/Droid-Sans-Mono/programming-font-droid-sans-mono-display-result.png "Programming Font Droid Sans Mono Display Result")
@@ -41,8 +44,11 @@ Deja Vu Sans Mono/Book/16:
 ![](https://raw.githubusercontent.com/ifeegoo/ifeegoo-programming-fonts-collections/master/Deja-Vu-Sans-Mono/programming-font-deja-vu-sans-mono-display-result.png "Programming Font Deja Vu Sans Mono Display Result")
 
 9.Consolas  deleted（1，l）
+
 10.Inconsolata deleted（不等宽）
+
 11.Fira Code https://github.com/tonsky
+
 Fira Code/Regular/16:
 ![](https://raw.githubusercontent.com/ifeegoo/ifeegoo-programming-fonts-collections/master/Fira-Code/programming-font-fira-code-display-result.png "Programming Font Fira Code Display Result")
 
